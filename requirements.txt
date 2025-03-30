@@ -1,0 +1,15 @@
+streamlit
+torch
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+transformers
+python-dotenv
+
+numpy
+scikit-learn
+elevenlabs
