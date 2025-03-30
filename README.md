@@ -8,5 +8,7 @@ LangChain is an open-source framework designed to simplify the creation of appli
 
 # openai
 ChatGPT is a product of OpenAI, a leading research organization focused on artificial intelligence. It is built upon the GPT (Generative Pre-trained Transformer) architecture, a state-of-the-art model for natural language processing (NLP). Developed by a team of researchers and engineers, ChatGPT leverages large-scale training data to generate human-like responses to user input.
-
 It has been aimed to provide answers based on feelings, auto-detection of words, and provide outputs based on the inputs given by the users.
+
+# Streamlit
+Streamlit is an open-source app framework in python language. It helps us create beautiful web apps for data science and machine learning in a little time. It is compatible with major python libraries such as scikit-learn, keras, PyTorch
